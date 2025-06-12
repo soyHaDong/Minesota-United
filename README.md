@@ -8,3 +8,4 @@ Using https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats to analyze tea
 - Impact of player injuries
 - Team momentum graph (based on last 10 games)
 - Rolling averages (e.g., 5-game form score)
+- Fan engangement 
