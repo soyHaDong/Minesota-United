@@ -1,8 +1,8 @@
 # Minesota-United
 Minesota MLS Team and Player Analysis
 
-Using https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats to analyze team performance. 
-For Teams:
+Using https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats to analyze team performance:
+
 - Win/loss trends
 - Offensive vs. defensive strength
 - Impact of player injuries
